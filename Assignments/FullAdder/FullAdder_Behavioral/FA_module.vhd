@@ -72,7 +72,7 @@ begin
 	ELSE
 		Sum <= '1';
 		Carry <= '1';
-		
+
 	END IF;
 end PROCESS P1;
 end Behavioral;

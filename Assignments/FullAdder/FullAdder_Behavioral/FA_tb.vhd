@@ -79,7 +79,7 @@ BEGIN
    -- Stimulus process
    process
    begin		
-      A <= '0';
+      		A <= '0';
 		B <= '0';
 		C <= '0';
 		wait for 10 ns;
